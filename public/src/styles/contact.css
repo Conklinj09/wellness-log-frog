@@ -1,0 +1,17 @@
+/* src/styles/contact.css */
+.contact-container {
+    padding: 2rem;
+    background-color: #f0fff0;
+    color: #325c4a;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .contact-container h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contact-container p {
+    font-size: 1.1rem;
+  }
+  
