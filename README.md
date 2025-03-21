@@ -41,3 +41,40 @@ Make sure Node.js and npm are installed:
 ```bash
 node -v
 npm -v
+
+# Installation & Setup
+1. Clone this repository:
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/wellness-log-frog.git
+cd wellness-log-frog
+2. Install dependencies:
+bash
+Copy
+Edit
+npm install
+3. Run the app:
+bash
+Copy
+Edit
+npm start
+4. Open your browser and go to:
+arduino
+Copy
+Edit
+http://localhost:3000
+# 🎨 Theming
+Soft green tones and gentle fonts are used to create a calming vibe for users navigating self-care and habit tracking.
+
+#💡 Future Features (Coming Soon!)
+✅ Hydration & food logging UI
+✅ Data saving and chart views
+✅ User authentication + backend
+✅ Dashboard analytics and streak tracking
+✅ A dancing frog emoji (maybe 🐸✨)
+#📫 Contact
+For questions, reach out at:
+contact@wellnesslogfrog.com
+
+Made with 💚 by Jeanette Conklin
