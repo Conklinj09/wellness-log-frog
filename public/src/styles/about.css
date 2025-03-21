@@ -1,0 +1,18 @@
+/* src/styles/about.css */
+.about-container {
+    padding: 2rem;
+    background-color: #f0fff4;
+    color: #295943;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .about-container h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .about-container p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  
